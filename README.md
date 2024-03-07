@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NestJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Renotje6](https://github.com/Renotje6)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Renotje6)
 
 - 💬 Ask me about **Node.js, Discord.js**
 
