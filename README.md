@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renotje6</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renotje6&label=Profile%20views&color=000000&style=flat-square" alt="renotje6" /> </p>
 
-- 🔭 I’m currently working on [Discord bots](https://discord.com/users/354633947260518401)
+- 🔭 I’m currently working on [Discord bots](https://discord.gg/rNTGZJYCDT)
 
 - 🌱 I’m currently learning **NestJs**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/rNTGZJYCDT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rNTGZJYCDT" height="30" width="40" /></a>
+<a href="https://discord.com/users/354633947260518401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rNTGZJYCDT" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
