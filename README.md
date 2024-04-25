@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renotje6</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renotje6&label=Profile%20views&color=000000&style=flat-square" alt="renotje6" /> </p>
 
-- 🔭 I’m currently working on [Discord bots](https://discord.gg/rNTGZJYCDT)
+- 🔭 I’m currently working on [Discord bots](https://discord.com/users/354633947260518401)
 
 - 🌱 I’m currently learning **NestJs**
 
